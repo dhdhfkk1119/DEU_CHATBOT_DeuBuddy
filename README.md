@@ -30,3 +30,4 @@
 
 ![image](https://github.com/dhdhfkk1119/DEU_CHATBOT_DeuBuddy/assets/140272714/3f2f9739-ec9a-468f-91b5-67c4c7168030)
 
+이상 대학교 캡스톤 개발이였습니다.

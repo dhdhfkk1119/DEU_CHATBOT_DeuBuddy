@@ -21,10 +21,13 @@
 
 수 있게 늘려갈 예정. 
 
-질문을 이해하지 못했을대 대답하는 문구 , 
+질문을 이해하지 못했을대 대답하는 문구 ,  
+
 ![image](https://github.com/dhdhfkk1119/DEU_CHATBOT_DeuBuddy/assets/140272714/19dce81d-6662-4c63-9d40-7b3e6dd8bfe2)
 
 예외 처리 기능 
+
 ![image](https://github.com/dhdhfkk1119/DEU_CHATBOT_DeuBuddy/assets/140272714/66dd4037-91fc-4d4c-b511-1163a93981f2)
+
 ![image](https://github.com/dhdhfkk1119/DEU_CHATBOT_DeuBuddy/assets/140272714/3f2f9739-ec9a-468f-91b5-67c4c7168030)
 
